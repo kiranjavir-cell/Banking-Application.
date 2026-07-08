@@ -1,1 +1,1 @@
-show databases;
+select * from transactions;
